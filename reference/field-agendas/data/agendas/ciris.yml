@@ -25,9 +25,10 @@ signatureVocabulary: >-
   Ratchet](https://ciris.ai/constitution/), M-1 principles-as-identity, signed traces, and
   NEW-04 compositional limits.
 statedIntent: >-
-  Public copy still sells a signed network as the answer to superalignment ("a network
-  that can hold a superhuman AI accountable"; "keeping AI honest … becomes something the
-  network enforces"). The rc8 branch adds a precedence rule (N1): CIRIS does not make a
+  Until 2026-10-14 the public copy sold a signed network as the answer to superalignment
+  ("a network that can hold a superhuman AI accountable"; "keeping AI honest … becomes
+  something the network enforces"); ciris.ai/paths/superalignment was rewritten under N1
+  that day (ciris-website 7ff7d85b). The rc8 branch adds the precedence rule (N1): CIRIS does not make a
   superintelligence good, says nothing about the inside of any model, and cannot stop an
   unaccountable superintelligence forming outside it; it aims to keep people able to
   pause, correct and refuse the agents it holds; "where anything on ciris.ai reads as
@@ -80,8 +81,9 @@ reviewStatus: >-
   RATCHET#27 UPTAKE and LOOP (the composite [boundary
   discovery](/cards/boundary-discovery/) counterexample is arm B1), integration and
   adversarial batteries under outside custody. ciris.ai publishes the tagged rc7 edition
-  (from the tag, with hashes, since 2026-10-14) and carries N1 on its philosophy page; the
-  superalignment page still carries the storefront copy.
+  (from the tag, with hashes) and carries N1 on its philosophy page; the superalignment and
+  safety pages were brought under N1 on 2026-10-14 (ciris-website 7ff7d85b); the tagged rc7
+  text has no N1.
 manuscriptHooks:
   - "`experiments/TODO.md`"
   - "toy T-9 `boundary_decouple`"
